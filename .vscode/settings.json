@@ -4,5 +4,13 @@
         "."
     ],
     "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true
+    "python.testing.pytestEnabled": true,
+    "cSpell.words": [
+        "idxs",
+        "sgkf",
+        "tril",
+        "xlabel",
+        "ylabel",
+        "yticks"
+    ]
 }
